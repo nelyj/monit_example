@@ -1,24 +1,5 @@
-# README
+# Monit setting up with Rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a repository that describe [this post][post-url]
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[post-url]: http://nely.tech/tools/2017/02/11/using-monit-in-development.html
